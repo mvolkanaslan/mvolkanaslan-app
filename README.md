@@ -10,7 +10,7 @@
 - ⚡ Also I'm developing my project -
   www.flightsupport24.com
 - 😄 I also like IoT , Embedded Systems and
-  Robotics Tecnologies
+  Robotic Tecnologies
 - 💬 Lifelong Learning
 
 
