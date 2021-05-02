@@ -11,14 +11,14 @@
   www.flightsupport24.com
 - 💬 Lifelong Learning
 - 😄 I also like IoT , Embedded Systems and
-  Robotic Tecnologies
+  Robotics Tecnologies
 
 <hr>
 <p align='center' style="font-size:20px">
   Contact me 
 </p>
 <center>
-  <a href="mailto:mvolkanaslan@gmail.com"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a align="center" href="mailto:mvolkanaslan@gmail.com"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <a href="mailto:mvolkanaslan@outlook.com.tr"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
   <a href="www.linkedin.com/in/m-volkanaslan"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/mvolkanaslan/"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
