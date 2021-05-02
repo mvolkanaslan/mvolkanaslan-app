@@ -11,7 +11,7 @@
   www.flightsupport24.com
 - 💬 Lifelong Learning
 - 😄 I also like IoT , Embedded Systems and
-  Robotics Tecnologies
+  Robotic Tecnologies
 
 <hr>
 <p align='center' style="font-size:20px">
