@@ -19,10 +19,10 @@
   Contact me 
 </p>
 <center>
-  <a align="center" href="mailto:mvolkanaslan@gmail.com"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-  <a href="mailto:mvolkanaslan@outlook.com.tr"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
-  <a href="www.linkedin.com/in/m-volkanaslan"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/mvolkanaslan/"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a align="center" href="mailto:mvolkanaslan@gmail.com" target="_blank"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a href="mailto:mvolkanaslan@outlook.com" target="_blank"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
+  <a href="https://www.linkedin.com/in/m-volkanaslan" target="_blank"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/mvolkanaslan/" target="_blank"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
   <!-- <a href="https://www.twitter.com/m/"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> -->
   <!-- <a href="https://discordapp.com/users/424246409928245249"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a> -->
   </center>
