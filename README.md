@@ -1,4 +1,4 @@
-<h1 align='center'> 👋 Hi, I'm Volkan ASLAN</h1>
+<h1 align='left'> 👋 Hi, I'm Volkan ASLAN</h1>
 <center>
 <p>A Programming Lover Mechanical Engineer</p>
 </center>
@@ -14,7 +14,7 @@
   Robotics Tecnologies
 
 <hr>
-<p align='center' style="font-size:20px">
+<p align='left' style="font-size:20px">
   Contact me 
 </p>
 <center>
