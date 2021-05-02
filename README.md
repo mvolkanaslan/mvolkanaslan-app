@@ -43,8 +43,6 @@
     <img width="30" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img width="30" align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    
-    
     <hr>
 
 <center><img width="500px" src="https://github-readme-stats.vercel.app/api?username=mvolkanaslan&show_icons=true&theme=radical">
