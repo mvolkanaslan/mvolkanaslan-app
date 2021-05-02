@@ -26,9 +26,9 @@
   <!-- <a href="https://discordapp.com/users/424246409928245249"><img width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a> -->
   </center>
 
-<hr>
-<center>
+<center><hr>
 <p style="font-size:20px">Technologies and Tools I'm interested in </p>
+<p>
     <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
     <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -42,9 +42,10 @@
     <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img width="30" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    <img width="30" align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </center>
-    <hr>
+    <img width="30" align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></p>
+    </center><br>
+    <p><hr></p>
+    
 
 <center><img width="500px" src="https://github-readme-stats.vercel.app/api?username=mvolkanaslan&show_icons=true&theme=radical">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvolkanaslan&show_icons=true&locale=en&layout=compact&theme=radical"/>
