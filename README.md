@@ -9,9 +9,10 @@
 - 🌱 I’m currently learning C#,JAVA,Angular,REACT
 - ⚡ Also I'm developing my project -
   www.flightsupport24.com
-- 💬 Lifelong Learning
 - 😄 I also like IoT , Embedded Systems and
   Robotics Tecnologies
+- 💬 Lifelong Learning
+
 
 <hr>
 <p align='left' style="font-size:20px">
