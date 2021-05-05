@@ -30,20 +30,20 @@
 <center><hr>
 <p style="font-size:20px">Technologies and Tools I'm interested in </p>
 <p>
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-    <img width="30" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    <img width="30" align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></p>
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    <img width="25" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img width="25" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img width="25" align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></p>
     </center><br>
     <p><hr></p>
     
