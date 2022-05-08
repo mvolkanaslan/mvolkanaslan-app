@@ -4,8 +4,6 @@
 </center>
 <hr>
 
-- 🔭 I’m currently working on Backend Architecture
-  with JAVA
 - 🌱 I’m currently learning C#,JAVA,Angular,REACT
 - ⚡ Also I'm developing my project -
   www.flightsupport24.com
