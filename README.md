@@ -1,10 +1,11 @@
-<h1 align='left'> 👋 Hi, I'm Volkan ASLAN</h1>
+<h1 align='left'> 👋 Hi, I'm Mehmet Volkan ASLAN</h1>
 <center>
 <p>A Programming Lover Mechanical Engineer</p>
 </center>
 <hr>
 
-- 🌱 I’m currently learning C#,JAVA,Angular,REACT
+- 🌱 I’m currently learning NodeJS,ExpressJS, NoSQL, MongoDB
+- 📦 I generally develop projects with Frontend technologies. 
 - 😄 I also like IoT , Embedded Systems and
   Robotic Tecnologies
 - 💬 Lifelong Learning
